@@ -15,4 +15,15 @@
 
 ## Brute-F
 #### an SSH,HTTP,FTP Cracker
-#### Automation tool running with hydra <img src="0.svg" width="50" >
+#### Automation tool running with hydra <img src="0.svg" width="25" >
+
+#### this is for education purposes only. im not responsible for any illegal used of this tool.
+
+### Installation:
+
+    git clone https://github.com/johnsmith80/Brute-F.git
+    cd Brute-F
+    chmod +x requirements.sh
+    python3 brute-f.py
+
+#### follow me on github: https://github.com/johnsmith80

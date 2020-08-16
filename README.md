@@ -1,4 +1,4 @@
-# Brute-F
+# Brute-F <img src="img/Octocat.png" width="80" >
 ### by: Johnsmith
 
 ###Preview

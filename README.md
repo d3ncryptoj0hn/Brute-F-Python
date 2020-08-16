@@ -26,4 +26,5 @@
     chmod +x requirements.sh
     python3 brute-f.py
 
-#### follow me on github: https://github.com/johnsmith80
+#### follow me on github: <img src="https://avatars0.githubusercontent.com/u/69185581?s=400&u=2475791fcc68e16326f123caafc00bc34dcf8b44&v=4
+" width="25" > https://github.com/johnsmith80

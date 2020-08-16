@@ -15,4 +15,4 @@
 
 ## Brute-F
 #### an SSH,HTTP,FTP Cracker
-#### Automation tool running with hydra <img src="img/0.svg" width="50" >
+#### Automation tool running with hydra <img src="0.svg" width="50" >

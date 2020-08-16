@@ -27,6 +27,6 @@
     chmod +x requirements.sh
     python3 brute-f.py
 
-#### follow me on github:<img src="img/Octocat.png" width="500" > https://github.com/johnsmith80
+#### follow me on github:<img src="img/Octocat.png" width="25" > https://github.com/johnsmith80
 #### Report any issue here: https://github.com/johnsmith80/Brute-F/issues
 ### Keep Hacking!

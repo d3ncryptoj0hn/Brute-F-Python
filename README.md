@@ -1,7 +1,7 @@
 # Brute-F <img src="img/Octocat.png" width="80" >
 ### by: Johnsmith
 
-###Preview
+### Preview
 
 <img src="img/1.png" width="500" >
 

@@ -29,6 +29,7 @@ print (" █    █  █     █   █    █    █             █      ")
 print (" █   ▒█  █     █▒ ▓█    █░   ▓▓  █         █      ")
 print (" █████░  █     ▒██▒█    ▒██   ███▒         █      ")
 print ("                                                  ")
+print ("                                        " + CBLUE2 + "Python version" + RESET)
 print ("                                        " + CBLUE2 + UNDERL + "By: john" + BLUE + "smith")
 print (RESET)
 ans=True

@@ -19,6 +19,7 @@
 #### This is the Python version of Brute-F.
 #### Bash version will be coming as soon as i post it.
 #### this is for education purposes only. im not responsible for any illegal used of this tool. 
+#### use the bash version instead: https://github.com/johnsmith80/Brute-F-Bash
 
 ### Installation:
 

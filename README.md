@@ -28,5 +28,5 @@
     python3 brute-f.py
 
 #### follow me on github:<img src="img/Octocat.png" width="25" > https://github.com/johnsmith80
-#### Report any issue here: https://github.com/johnsmith80/Brute-F/issues
+#### Report any issue here: https://github.com/johnsmith80/Brute-F-Python/issues
 ### Keep Hacking!

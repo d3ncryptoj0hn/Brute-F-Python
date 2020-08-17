@@ -19,8 +19,6 @@
 #### This is the Python version of Brute-F.
 #### Bash version will be coming as soon as i post it.
 #### this is for education purposes only. im not responsible for any illegal used of this tool. 
-#### use the bash version instead: https://github.com/johnsmith80/Brute-F-Bash
-
 ### Installation:
 
     git clone https://github.com/johnsmith80/Brute-F-Python.git
@@ -29,5 +27,6 @@
     python3 brute-f.py
 
 #### follow me on github:<img src="img/Octocat.png" width="25" > https://github.com/johnsmith80
+#### use the bash version instead: https://github.com/johnsmith80/Brute-F-Bash
 #### Report any issue here: https://github.com/johnsmith80/Brute-F-Python/issues
 ### Keep Hacking!

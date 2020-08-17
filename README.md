@@ -23,7 +23,7 @@
 ### Installation:
 
     git clone https://github.com/johnsmith80/Brute-F-Python.git
-    cd Brute-F
+    cd Brute-F-Python
     chmod +x requirements.sh
     python3 brute-f.py
 
